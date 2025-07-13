@@ -8,7 +8,7 @@ const __dirname = path.dirname(__filename);
 
 const app = express();
 
-const PORT = 6505;
+const PORT = 6506;
 
 app.use(express.json());
 
